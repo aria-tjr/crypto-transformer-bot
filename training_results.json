@@ -1,0 +1,18 @@
+{
+  "contrastive": {
+    "final_loss": 11.005759718382887,
+    "best_loss": 10.998498260485519
+  },
+  "supervised": {
+    "final_train_loss": 1.1248410425275703,
+    "best_val_loss": 1.1098448569359987,
+    "test_loss": 1.1184532227723494,
+    "test_acc": 0.4809140705237932
+  },
+  "rl": {
+    "best_reward": 9062.929006695345,
+    "final_avg_reward": 111.80814305038228
+  },
+  "elapsed_seconds": 1553.055277,
+  "timestamp": "2025-12-23T22:27:17.982540"
+}
